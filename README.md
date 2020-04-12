@@ -8,7 +8,7 @@ Website: [jgarza9788 - UnityPortfolio](https://github.com/jgarza9788/UnityPortfo
 
 >This is my new unity portfolio website, it will be replacing the squarespace one soon.
 
-[All Assets](https://assetstore.unity.com/publishers/7928)
+## [All Assets](https://assetstore.unity.com/publishers/7928)
 
 ## My Top Unity Assets
 
