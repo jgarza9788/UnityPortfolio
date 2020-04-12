@@ -8,6 +8,8 @@ Website: [jgarza9788 - UnityPortfolio](https://github.com/jgarza9788/UnityPortfo
 
 >This is my new unity portfolio website, it will be replacing the squarespace one soon.
 
+[All Assets](https://assetstore.unity.com/publishers/7928)
+
 ## My Top Unity Assets
 
 * [GaussianBlur_URP](http://u3d.as/1wQD)  
@@ -18,4 +20,4 @@ Website: [jgarza9788 - UnityPortfolio](https://github.com/jgarza9788/UnityPortfo
 * [JellyObject](http://u3d.as/Mm0)
 * [JelloShot](http://u3d.as/15gd)
 
-[All Assets](https://assetstore.unity.com/publishers/7928)
+
